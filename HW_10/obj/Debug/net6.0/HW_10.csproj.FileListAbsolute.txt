@@ -1,0 +1,15 @@
+C:\GB\HomeWorks\HW_10\obj\Debug\net6.0\HW_10.csproj.AssemblyReference.cache
+C:\GB\HomeWorks\HW_10\obj\Debug\net6.0\HW_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\HomeWorks\HW_10\obj\Debug\net6.0\HW_10.AssemblyInfoInputs.cache
+C:\GB\HomeWorks\HW_10\obj\Debug\net6.0\HW_10.AssemblyInfo.cs
+C:\GB\HomeWorks\HW_10\obj\Debug\net6.0\HW_10.csproj.CoreCompileInputs.cache
+C:\GB\HomeWorks\HW_10\bin\Debug\net6.0\HW_10.exe
+C:\GB\HomeWorks\HW_10\bin\Debug\net6.0\HW_10.deps.json
+C:\GB\HomeWorks\HW_10\bin\Debug\net6.0\HW_10.runtimeconfig.json
+C:\GB\HomeWorks\HW_10\bin\Debug\net6.0\HW_10.dll
+C:\GB\HomeWorks\HW_10\bin\Debug\net6.0\HW_10.pdb
+C:\GB\HomeWorks\HW_10\obj\Debug\net6.0\HW_10.dll
+C:\GB\HomeWorks\HW_10\obj\Debug\net6.0\refint\HW_10.dll
+C:\GB\HomeWorks\HW_10\obj\Debug\net6.0\HW_10.pdb
+C:\GB\HomeWorks\HW_10\obj\Debug\net6.0\HW_10.genruntimeconfig.cache
+C:\GB\HomeWorks\HW_10\obj\Debug\net6.0\ref\HW_10.dll
